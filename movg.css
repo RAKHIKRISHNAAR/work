@@ -1,0 +1,71 @@
+.parent{
+    height:1300px;
+    background-color:rgb(240, 240, 153);
+    position:relative;
+    left:50px;
+    top:50px;
+}
+.col{
+    height:-150px;
+    width:30%;
+    border:2px solid rgb(240, 240, 153);
+    position:absolute;
+    
+}
+body{
+text-align: center;
+}
+#d1{
+    background-color:palevioletred;
+}
+.col-1{
+    left:50px;
+}
+
+button{
+    height:-1px;
+    width:25%;
+    font-size: xx-large;
+    border-radius:2px;
+}
+img{
+    margin-left: -9px;
+    margin-top: 10px;
+    height:300px;
+    width:40%;
+}
+button:hover{
+    background-color: azure;
+}
+.col-2{
+    left:1005px;
+}
+.col-3{
+left:2000px;
+}
+h2{font-size: xx-large;
+    text-align: center;
+}
+h1{
+
+    text-align: center;
+}
+
+#d2{
+    background-color: rgb(190, 133, 133);
+}
+img:hover{
+    background-color: aquamarine;
+}
+.col-4{
+    margin-top: -495px;
+    float:left;
+    margin-left :600px;
+}
+.col-5{
+    margin-top: -495px;
+    margin-left: 1600px;
+}
+.checked {
+    color: orange;
+  }
